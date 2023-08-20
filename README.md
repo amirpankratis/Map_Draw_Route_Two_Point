@@ -24,7 +24,9 @@ The MyRoute Android app simplifies route planning by allowing users to select tw
 
 1. Clone the repository
 2. Open the project in Android Studio.
-3. Build and run the app on your Android device.
+3. Add your map api Key in /app/src/main/res/values
+/strings.xml
+4. Build and run the app on your Android device.
 
 ## contact
 amir.shaban@live.com
